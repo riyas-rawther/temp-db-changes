@@ -11,7 +11,7 @@ USE [northwind]
 GO
 
 UPDATE [dbo].[Customers]
-   SET [ContactName] = 'Riyas Rawther migration'
+   SET [ContactName] = 'Riyas Rawther Something....'
       
  WHERE [dbo].[Customers].[CustomerID] = 'ALFKI'
 GO
