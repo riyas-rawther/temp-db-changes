@@ -10,7 +10,7 @@
 USE [northwind]
 GO
 
-UPDATE [dbo].[Customers]
+UPDATE [dbo].[Customers-xxxxxxxxxxxtfgvghghhb]
    SET [ContactName] = 'Riyas Rawther Something....'
       
  WHERE [dbo].[Customers].[CustomerID] = 'ALFKI'
